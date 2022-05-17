@@ -28,7 +28,7 @@ Your grade is C!
 */
 
 
-/* switch 문
+/* switch-case 문
 let 변수;
 
 switch (변수) {
