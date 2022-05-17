@@ -11,7 +11,7 @@ function getName(animal) {
 }
 
 let dog_name = getName(dog);
-console.log(dog_name); // 멍멍이
+console.log(dog_name);
 /* output
 멍멍이
 */
