@@ -1,3 +1,6 @@
+// 04_Conditional_Statement.js
+
+
 /* if 문
 if (조건 1) {
     (코드 1);
@@ -20,6 +23,11 @@ if (score > 90) {
 } else {
     console.log('Your grade is F!');
 }
+/* output
+Your grade is C!
+*/
+
+
 /* switch 문
 let 변수;
 
@@ -53,3 +61,6 @@ switch (device) {
     default:
         console.log('Anythong else...')
 }
+/* output
+iMac!
+*/
