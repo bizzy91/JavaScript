@@ -1,3 +1,6 @@
+// 05_Function.js
+
+
 // 더하기 함수
 function add(a, b) {
     return a + b;

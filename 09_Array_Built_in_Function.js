@@ -1,4 +1,4 @@
-// 09_Built_in_Function.js
+// 09_Array_Built_in_Function.js
 
 
 // forEach, 배열의 원소를 그대로 사용하기
